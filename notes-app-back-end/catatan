@@ -1,0 +1,4 @@
+//
+chrome://flags/#block-insecure-private-network-requests
+//
+npx eslint . --fix
